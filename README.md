@@ -1,15 +1,5 @@
-# DSS_A80_2025
-Dự án “Xây dựng hệ thống DSS hỗ trợ lựa chọn vị trí tham gia Concert Quốc Gia A80 tại Hà Nội” được thiết kế nhằm đáp ứng nhu cầu thực tiễn của quần chúng nhân dân trong việc đưa ra quyết định lựa chọn vị trí tối ưu để quan sát và cổ vũ các đoàn diễu binh .
-
-Dưới đây mình viết phần **Phát biểu bài toán** (dùng được cả trong báo cáo lẫn file README cho dev). Nội dung được trình bày theo phong cách trang trọng, rõ ràng và có đủ chi tiết để người đọc hiểu cơ chế, công thức, thuật toán của DSS:
-
----
-
-Ok 👌 dưới đây mình viết một **README mẫu** để bạn có thể copy thẳng vào GitHub repo. Nội dung gồm: giới thiệu, cơ chế DSS, công thức LaTeX hiển thị đẹp, và hướng dẫn triển khai.
-
----
-
 # DSS – Hỗ trợ lựa chọn vị trí xem Concert A80 🎶
+Dự án “Xây dựng hệ thống DSS hỗ trợ lựa chọn vị trí tham gia Concert Quốc Gia A80 tại Hà Nội” được thiết kế nhằm đáp ứng nhu cầu thực tiễn của quần chúng nhân dân trong việc đưa ra quyết định lựa chọn vị trí tối ưu để quan sát và cổ vũ các đoàn diễu binh .
 
 ## Giới thiệu
 
@@ -114,6 +104,3 @@ Input: R_pref, mobility_type, parade_pref, dataset
 
 👉 Đây là nền tảng cơ bản để phát triển thành một **DSS trực quan, thân thiện và đáng tin cậy** cho sự kiện A80.
 
----
-
-Bạn có muốn mình làm thêm một **README bản rút gọn (chỉ 1–2 trang, không công thức chi tiết)** để dùng khi public repo cho người ngoài, còn bản đầy đủ này giữ trong báo cáo nội bộ không?
